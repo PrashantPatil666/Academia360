@@ -1,5 +1,5 @@
 
-# Student Management System 🎓
+# Academia360 🎓
 
 A full-stack, enterprise-grade CRUD (Create, Read, Update, Delete) application built using **Spring Boot**, **Thymeleaf**, **Bootstrap 4**, and **MySQL**. This application acts as a clean dashboard for managing student profiles dynamically with a live relational database backend.
 
